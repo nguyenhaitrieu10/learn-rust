@@ -21,3 +21,8 @@ target
 #.idea/
 
 resources/rust-book
+
+
+# Added by cargo
+
+/target

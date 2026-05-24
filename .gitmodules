@@ -1,0 +1,3 @@
+[submodule "rust-book"]
+	path = rust-book
+	url = https://github.com/cognitive-engineering-lab/rust-book.git
